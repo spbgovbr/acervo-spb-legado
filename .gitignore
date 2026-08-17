@@ -1,0 +1,34 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*.part
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Arquivos de controle locais
+*.bak
+*~
+
+# ============================================================
+# ACERVO SPB
+# ============================================================
+# Os artefatos digitais preservados NÃO são versionados pelo Git.
+# Eles permanecem organizados localmente por software e serão
+# publicados como assets das GitHub Releases.
+#
+# Dentro de softwares/<software>/ somente METADADOS.md deve
+# integrar o repositório Git.
+softwares/*/*
+!softwares/*/METADADOS.md
+
+# Áreas locais de preparação e controle
+_controle/
+_assets/
+_temp/
