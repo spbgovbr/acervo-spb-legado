@@ -1,6 +1,6 @@
 # Acervo do Catálogo de Software Público Brasileiro
 
-Este repositório reúne e organiza o **acervo histórico do Catálogo do Software Público Brasileiro (SPB)**, com a finalidade de preservar registros e conteúdos digitais associados aos softwares disponibilizados no antigo ambiente do SPB.
+Este repositório reúne e organiza o **acervo histórico do Catálogo do Software Público Brasileiro (SPB)**, com a finalidade de preservar registros e conteúdos digitais associados aos softwares disponibilizados no antigo ambiente do SPB (https://softwarepublico.gov.br/social/search/software_infos).
 
 O acervo é mantido como registro histórico. A presença de um software ou artefato neste repositório **não representa manutenção ativa, suporte, atualização tecnológica, validação de segurança ou recomendação para uso em ambiente de produção**.
 
@@ -18,7 +18,7 @@ As referências históricas sem hash permanecem registradas como parte do levant
 
 ## Catálogo
 
-A relação dos **68 softwares** e dos conteúdos preservados associados a cada um está disponível em:
+A relação dos **66 softwares** e dos conteúdos preservados associados a cada um está disponível em:
 
 **[Catálogo do Acervo](CATALOGO.md)**
 
@@ -71,7 +71,3 @@ Os critérios adotados para organização, preservação e disponibilização do
 Informações relacionadas à natureza histórica dos softwares e à comunicação de questões de segurança estão disponíveis em:
 
 **[SECURITY.md](SECURITY.md)**
-
----
-
-Este repositório preserva o legado digital do Software Público Brasileiro como acervo histórico.
