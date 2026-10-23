@@ -32,6 +32,17 @@ Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
 - Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
 - Limitação: revisão pontual de conteúdo; instalação e funcionamento não verificados.
 
+## Retiradas da distribuição
+
+O inventário é histórico e inclui o arquivo retirado; o original permanece preservado internamente.
+
+- Nome original: `sivac_instalacao_v2.1.tar.gz`
+- SHA-256: `f1443bdd05937d5b67878617d8ff6171fde7a6e8da8f4e9729730c77bc633fab`
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-23
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
+- Substituído por: `sivac_instalacao_v2.1-rev-acervo-20261023-r2.tar.gz`
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
