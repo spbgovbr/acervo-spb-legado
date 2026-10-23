@@ -82,6 +82,13 @@ O inventário acima é histórico e inclui os arquivos retirados da distribuiç�
 - Motivo: incompatibilidade com os critérios de distribuição do acervo
 - Substituído por: `GEPNET-versao2_1_1-SPB-12-03-2016-rev-acervo-20261023-r1.zip`
 
+- Nome original: `gepnet-versao-2-3-2-de-04-03-2017.zip`
+- SHA-256: `5f2ad097d0786832e094e51276898f2520a39ba1e8f1cd9d6d350d52483cad02`
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-23
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
+- Substituído por: `gepnet-versao-2-3-2-de-04-03-2017-rev-acervo-20261023-r1.zip`
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
