@@ -29,6 +29,17 @@ Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
 - Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
 - Limitação: pacote parcial, com componentes excluídos na revisão; instalação e funcionamento não verificados.
 
+## Retiradas da distribuição
+
+O inventário é histórico e inclui o arquivo retirado; o original permanece preservado internamente.
+
+- Nome original: `sgce_1.0.3.zip`
+- SHA-256: `3c567b95328897821da75cfc400fda8befcd0d7cb8db42ca49f918d1ea6d7a8b`
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-23
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
+- Substituído por: `sgce_1.0.3-rev-acervo-20261023-r1.zip`
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
