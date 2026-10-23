@@ -20,6 +20,18 @@ Foram identificados **5 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 | `sivac_instalacao_v2.1.tar.gz` | Arquivo compactado | `f1443bdd05937d5b67878617d8ff6171fde7a6e8da8f4e9729730c77bc633fab` |
 | `versoes.html` | Conteúdo histórico | `3481b5df26d094de220155f83b230589602b0ab557c8fc540a52b2c01828ac99` |
 
+## Versões revisadas para distribuição
+
+Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
+
+- Nome do arquivo: `sivac_instalacao_v2.1-rev-acervo-20261023-r2.tar.gz`
+- SHA-256: `aa2bb3331baa925c0b1b1fb22965a4e484b72ffa2a879b385aeea199f75c9384`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sivac/sivac_instalacao_v2.1-rev-acervo-20261023-r2.tar.gz
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: revisão pontual de conteúdo; instalação e funcionamento não verificados.
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
