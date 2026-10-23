@@ -39,6 +39,26 @@ Foram identificados **24 conteúdo(s) digital(is) preservado(s)** associado(s) a
 | `orientacao-para-customizacao-dos-logotipos-e-cabecalhos-versao-spb.docx` | Documentação | `b811713583b2c56155ccc3a365d72784181ca8bf824db788f6e9c7199ca766c5` |
 | `versoes.html` | Conteúdo histórico | `422cb88b1a93e7adc7e29c6cdf8b55ce5f5e158c33dae895fa02139b3d9d23a8` |
 
+## Versões revisadas para distribuição
+
+Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
+
+- Nome do arquivo: `GEPNET-versao2_1_1-SPB-12-03-2016-rev-acervo-20261023-r1.zip`
+- SHA-256: `ca3c2f892a9caf54292f98a6f8e234c97663bc828ba72c47f7f7b61daeb54e0c`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-gepnet/GEPNET-versao2_1_1-SPB-12-03-2016-rev-acervo-20261023-r1.zip
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: pacote parcial, com componentes excluídos na revisão; instalação e funcionamento não verificados.
+
+- Nome do arquivo: `gepnet-versao-2-3-2-de-04-03-2017-rev-acervo-20261023-r1.zip`
+- SHA-256: `a60d6bb63d6348996431898e265c7fc43556e3e5093d7dcbded0c589c1f5bda6`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-gepnet/gepnet-versao-2-3-2-de-04-03-2017-rev-acervo-20261023-r1.zip
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: pacote parcial, com componentes excluídos na revisão; instalação e funcionamento não verificados.
+
 ## Retiradas da distribuição
 
 O inventário acima é histórico e inclui os arquivos retirados da distribuição. Os registros abaixo identificam downloads que não estão mais disponíveis nas Releases; os originais permanecem preservados internamente.
