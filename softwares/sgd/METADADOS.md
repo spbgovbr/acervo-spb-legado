@@ -25,6 +25,18 @@ Foram identificados **10 conteúdo(s) digital(is) preservado(s)** associado(s) a
 | `sgd1.0-r1.zip` | Arquivo compactado | `1889b2fddc09f9ee7161987523d43d0d23cd11bde9aec7c0fe3966f8fa7d6d9b` |
 | `versoes.html` | Conteúdo histórico | `df4c1a4a07a2e8dbde9370e62955f86bbbf762cc3c7c4c755c368627385dddee` |
 
+## Versões revisadas para distribuição
+
+Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
+
+- Nome do arquivo: `sgd1.0-r1-rev-acervo-20261023-r1.zip`
+- SHA-256: `e18b889ccb91503460ec80acfbe080d53ad92c95ead8a8f6929b2986731bd89f`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/sgd1.0-r1-rev-acervo-20261023-r1.zip
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: pacote parcial, com componentes excluídos na revisão; instalação e funcionamento não verificados.
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
