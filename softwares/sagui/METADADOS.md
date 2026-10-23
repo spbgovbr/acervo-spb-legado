@@ -18,6 +18,18 @@ Foram identificados **3 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 | `sagui-procedimentos-para-uso-v1.0.pdf` | Documentação | `9352f90dd614695ea94b3c4f9608c9882f96bb00eb2f6f7e998e3ad8befa75ba` |
 | `sagui-servidor-1.0.tar.gz` | Arquivo compactado | `c7e9529e28c33b4045be92ffdf40ae34329d31de627848015c7780c10d1b0ac9` |
 
+## Versões revisadas para distribuição
+
+Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
+
+- Nome do arquivo: `sagui-servidor-1.0-rev-acervo-20261023-r1.tar.gz`
+- SHA-256: `39496979aa218458fccba38f32db45e00377b83685d8a5cc5b6dffe0f7f3df0b`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sagui/sagui-servidor-1.0-rev-acervo-20261023-r1.tar.gz
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: revisão pontual de conteúdo; instalação e funcionamento não verificados.
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
