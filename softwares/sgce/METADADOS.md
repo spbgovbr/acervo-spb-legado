@@ -17,6 +17,18 @@ Foram identificados **2 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 | `sgce_1.0.3.zip` | Arquivo compactado | `3c567b95328897821da75cfc400fda8befcd0d7cb8db42ca49f918d1ea6d7a8b` |
 | `versoes.html` | Conteúdo histórico | `a557c3cf58de4e8080bc3d1f8176f368a6efd16e2f8da31823143424a303cb10` |
 
+## Versões revisadas para distribuição
+
+Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
+
+- Nome do arquivo: `sgce_1.0.3-rev-acervo-20261023-r1.zip`
+- SHA-256: `43f319c9097b831f96477df2b0f567c27e434a0d9bf943118313db01d7d03743`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgce/sgce_1.0.3-rev-acervo-20261023-r1.zip
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: pacote parcial, com componentes excluídos na revisão; instalação e funcionamento não verificados.
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
