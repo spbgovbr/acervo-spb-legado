@@ -19,6 +19,18 @@ Foram identificados **4 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 | `protocolo.war` | Binário ou pacote | `de1491ed2cddbf828bcdeaab566e46932c833ef1a4d7fb20d19489a5c6d1a656` |
 | `versoes.html` | Conteúdo histórico | `744ecb3e9e39da9e910a1c9ddbc0fcc71bb5b205a656a06f6bf32e2aee813aa6` |
 
+## Versões revisadas para distribuição
+
+Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
+
+- Nome do arquivo: `protocolo-rev-acervo-20261023-r1.war`
+- SHA-256: `74318f0ead1a73678739dd05103e48f31158c6b9ab5bbe1fcd85a8c8dc285b1d`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-protocolo-eletronico/protocolo-rev-acervo-20261023-r1.war
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: pacote parcial, com componentes excluídos na revisão; instalação e funcionamento não verificados.
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
