@@ -37,6 +37,17 @@ Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
 - Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
 - Limitação: revisão pontual de conteúdo; instalação e funcionamento não verificados.
 
+## Retiradas da distribuição
+
+O inventário é histórico e inclui o arquivo retirado; o original permanece preservado internamente.
+
+- Nome original: `oasis_2_2_1.tar.gz`
+- SHA-256: `67cc735d77693de78a31e46487fb3c80283e72118069f37846dee0fe90266354`
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-23
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
+- Substituído por: `oasis_2_2_1-rev-acervo-20261023-r1.tar.gz`
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
