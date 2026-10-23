@@ -20,6 +20,16 @@ Foram identificados **5 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 | `navi.zip` | Arquivo compactado | `e534a7f6c6117fbcfdae20181c0610b4ebd992ae1da0701a6955f929de43eca0` |
 | `versoes.html` | Conteúdo histórico | `c82a23190c537f68cb3327f3910cd74244f3a5e5217d2a0d6784a359b09a8842` |
 
+## Retiradas da distribuição
+
+O inventário acima é histórico e inclui os arquivos retirados da distribuição. Os registros abaixo identificam downloads que não estão mais disponíveis nas Releases; os originais permanecem preservados internamente.
+
+- Nome original: `navi.sql.zip`
+- SHA-256: `55b1dce7cd8ba50c6c316c8eec0d8afe71a7b2ac21ca8e6c4e08bc41b44ac9be`
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-23
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
