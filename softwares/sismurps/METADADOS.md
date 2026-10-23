@@ -24,6 +24,18 @@ Foram identificados **9 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 | `Anexo_Saude.pdf` | Documentação | `bb83a8bb57c72d77ab62ccbd8d85e76ceda7692eabf2c9a827df7cca47e3d1d6` |
 | `pcni_htdocs.tar.bz2` | Arquivo compactado | `37cf1ad6f65a6b07294d14798c1b95699db9601b76a5743f844e7890c85ceb48` |
 
+## Versões revisadas para distribuição
+
+Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
+
+- Nome do arquivo: `pcni_htdocs-rev-acervo-20261023-r1.tar.bz2`
+- SHA-256: `0d6f29bdb469fed6827288378cb31fd553b31e0764f92b042598dd93c333fdf9`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sismurps/pcni_htdocs-rev-acervo-20261023-r1.tar.bz2
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: pacote parcial, com componentes excluídos na revisão; instalação e funcionamento não verificados.
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
