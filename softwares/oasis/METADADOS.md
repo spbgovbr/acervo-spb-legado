@@ -25,6 +25,18 @@ Foram identificados **10 conteúdo(s) digital(is) preservado(s)** associado(s) a
 | `oasis-for-windows-by-banco-amazonia.pdf` | Documentação | `066ce33ba7bd56a2567da8aeb8c9f989044ee3a978a2bf7cad64058cf15c3a39` |
 | `oasis_2_2_1.tar.gz` | Arquivo compactado | `67cc735d77693de78a31e46487fb3c80283e72118069f37846dee0fe90266354` |
 
+## Versões revisadas para distribuição
+
+Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
+
+- Nome do arquivo: `oasis_2_2_1-rev-acervo-20261023-r1.tar.gz`
+- SHA-256: `ceb1e23162d0e2df49eb598ae09f3716f831ff45494c6531c633252bf0d4d38f`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-oasis/oasis_2_2_1-rev-acervo-20261023-r1.tar.gz
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: revisão pontual de conteúdo; instalação e funcionamento não verificados.
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
