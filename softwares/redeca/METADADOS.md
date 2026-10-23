@@ -24,6 +24,18 @@ Foram identificados **9 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 | `tecnico-alta.pdf` | Documentação | `3d841fc8d0a5eb5ef2548fb24192690cdc6d20005a2864ea7e86d2429fa23bbf` |
 | `versoes.html` | Conteúdo histórico | `87b31e9a67b9945eb87a4cec3306a188010f941e18a8c750f362bb1e528e1351` |
 
+## Versões revisadas para distribuição
+
+Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
+
+- Nome do arquivo: `redeca-1.0.09-rev-acervo-20261023-r2.zip`
+- SHA-256: `d2a5b8df58f1b35e2d1c675d17dbe596377adb61f33be5b8d2f07ae3676776c5`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/redeca-1.0.09-rev-acervo-20261023-r2.zip
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-23
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: pacote parcial, com componentes excluídos na revisão; instalação e funcionamento não verificados.
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
