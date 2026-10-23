@@ -39,6 +39,22 @@ Foram identificados **24 conteúdo(s) digital(is) preservado(s)** associado(s) a
 | `orientacao-para-customizacao-dos-logotipos-e-cabecalhos-versao-spb.docx` | Documentação | `b811713583b2c56155ccc3a365d72784181ca8bf824db788f6e9c7199ca766c5` |
 | `versoes.html` | Conteúdo histórico | `422cb88b1a93e7adc7e29c6cdf8b55ce5f5e158c33dae895fa02139b3d9d23a8` |
 
+## Retiradas da distribuição
+
+O inventário acima é histórico e inclui os arquivos retirados da distribuição. Os registros abaixo identificam downloads que não estão mais disponíveis nas Releases; os originais permanecem preservados internamente.
+
+- Nome original: `dump-inicial-gepnet2-agepnet200-12-03-2016__c6bb52b27b1d.sql`
+- SHA-256: `c6bb52b27b1d53c7d2a89b0b99f7e0db5a3d4ee7f4381f6ba4d22e62dec77394`
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-23
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
+
+- Nome original: `dump-inicial-gepnet2-versao232-06-03-2017.sql`
+- SHA-256: `1a56be830e2af9d7103614d4a220d98ab3385159da64d7b08490b64300d9c075`
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-23
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
