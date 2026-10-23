@@ -32,6 +32,17 @@ Os arquivos abaixo são versões revisadas adicionais ao inventário histórico.
 - Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
 - Limitação: revisão pontual de conteúdo; instalação e funcionamento não verificados.
 
+## Retiradas da distribuição
+
+O inventário é histórico e inclui o arquivo retirado; o original permanece preservado internamente.
+
+- Nome original: `siaudi2.0.zip`
+- SHA-256: `9263b52c216c41b4e44c6bc4fd5dbe32a1ea59db4d126e938110dbb373216aa4`
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-23
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
+- Substituído por: `siaudi2.0-rev-acervo-20261023-r1.zip`
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
