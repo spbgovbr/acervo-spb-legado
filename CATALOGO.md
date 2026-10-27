@@ -5,6 +5,7 @@ Este catálogo reúne os softwares cadastrados no acervo histórico do Software 
 ## Visão geral
 
 - **Softwares cadastrados:** 68
+- **Softwares com conteúdos:** 66
 - **Referências analisadas:** 465
 - **Conteúdos digitais únicos preservados:** 435
 - **Referências duplicadas:** 26
@@ -18,10 +19,11 @@ As referências históricas sem hash permanecem registradas como parte do levant
 
 | Software | Conteúdos digitais preservados | Metadados |
 |---|---:|---|
+| Ação | 4 | [Consultar](softwares/acao/METADADOS.md) |
+| ÁGATHA | 0 | [Consultar](softwares/agatha/METADADOS.md) |
 | Amadeus LMS | 1 | [Consultar](softwares/amadeus-lms/METADADOS.md) |
 | Apoena - Democratizando Informações | 3 | [Consultar](softwares/apoena/METADADOS.md) |
 | Ases | 39 | [Consultar](softwares/ases/METADADOS.md) |
-| Ação | 4 | [Consultar](softwares/acao/METADADOS.md) |
 | Cacic - Configurador Automático e Coletor de Informações Computacionais | 4 | [Consultar](softwares/cacic/METADADOS.md) |
 | CAU - Central de Atendimento ao Usuário | 3 | [Consultar](softwares/cau/METADADOS.md) |
 | Citsmart GRP Community | 6 | [Consultar](softwares/citsmart-grp-community/METADADOS.md) |
@@ -85,7 +87,6 @@ As referências históricas sem hash permanecem registradas como parte do levant
 | VLibras - Suite VLibras | 4 | [Consultar](softwares/vlibras/METADADOS.md) |
 | WebIntegrator - Produtividade Java WEB | 15 | [Consultar](softwares/webintegrator/METADADOS.md) |
 | Xemelê | 5 | [Consultar](softwares/xemele/METADADOS.md) |
-| ÁGATHA | 0 | [Consultar](softwares/agatha/METADADOS.md) |
 
 ## Observação sobre preservação
 
