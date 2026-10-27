@@ -13,10 +13,11 @@ A presença de um software ou artefato neste acervo não representa manutenção
 O levantamento consolidado compreende:
 
 - **68 softwares cadastrados**;
+- **66 softwares com conteúdos preservados:**;
 - **465 referências analisadas**;
 - **435 conteúdos digitais únicos preservados**;
 - **26 referências duplicadas**;
-- **4 referências históricas sem hash SHA-256**.
+- **4 referências históricas sem hash SHA-256 registrado**.
 
 Os quantitativos refletem a consolidação realizada para organização do acervo histórico.
 
@@ -24,7 +25,7 @@ Os quantitativos refletem a consolidação realizada para organização do acerv
 
 A organização do acervo observa os seguintes princípios:
 
-- preservação integral dos conteúdos coletados;
+- preservação integral dos arquivos efetivamente recuperados e incorporados ao acervo;
 - manutenção da rastreabilidade dos conteúdos preservados;
 - não exclusão de arquivos em razão de duplicidade;
 - identificação lógica de conteúdos duplicados por SHA-256;
@@ -34,19 +35,19 @@ A organização do acervo observa os seguintes princípios:
 
 ## 4. Acervo original preservado
 
-O diretório de quarentena utilizado durante o processo de coleta constitui a fonte preservada dos conteúdos recuperados.
+Os conteúdos recuperados foram preservados em sua forma original durante o processo de consolidação do acervo.
 
-Os arquivos existentes nesse ambiente não foram alterados, renomeados, excluídos ou substituídos como parte da preparação para publicação.
-
-Operações de organização, classificação e preparação para o GitHub foram realizadas a partir dos registros consolidados do acervo, mantendo-se o conteúdo original preservado.
+As operações de organização, classificação e preparação para publicação no GitHub foram realizadas com base nos registros consolidados do acervo.
 
 ## 5. Identificação por SHA-256
 
-O SHA-256 é utilizado como identificador de integridade dos conteúdos digitais preservados.
+O SHA-256 é utilizado como identificador técnico dos conteúdos digitais preservados e como mecanismo auxiliar de verificação de integridade.
 
-Os **435 valores SHA-256 utilizados neste repositório correspondem aos valores já registrados nas bases consolidadas que deram origem aos dados do dashboard do acervo**.
+Os 435 valores SHA-256 registrados neste repositório correspondem aos valores constantes das bases consolidadas do antigo ambiente web do SPB.
 
-Os valores utilizados no processo de organização foram conferidos entre as bases consolidadas antes da geração dos metadados deste repositório.
+Esses valores foram conferidos entre as bases consolidadas antes da geração dos metadados do repositório.
+
+O registro de um valor SHA-256 não constitui certificação de autenticidade, segurança, funcionamento ou ausência de código malicioso.
 
 ## 6. Referências duplicadas
 
@@ -58,7 +59,7 @@ A duplicidade é tratada de forma lógica.
 
 Assim:
 
-- a referência histórica não é considerada inexistente;
+- a referência histórica permanece registrada;
 - o conteúdo não é contado novamente como novo conteúdo digital;
 - arquivos preservados no acervo original não são excluídos em razão da duplicidade;
 
@@ -66,15 +67,13 @@ Dessa forma, as 26 referências duplicadas integram o levantamento histórico.
 
 ## 7. Referências históricas sem SHA-256
 
-Foram identificadas **4 referências históricas sem SHA-256**.
+Foram identificadas **4 referências históricas sem SHA-256 registrado**.
 
 Essas referências permanecem registradas por integrarem o levantamento histórico do SPB.
 
-Não são atribuídos hashes artificiais ou estimados a esses registros.
+Não foram atribuídos valores substitutivos aos registros para os quais não havia SHA-256 nas bases consolidadas.
 
-A ausência de SHA-256 indica apenas que a referência histórica não está associada, no acervo consolidado, a um novo conteúdo digital identificado por esse mecanismo.
-
-Uma referência sem hash também não implica necessariamente que o respectivo software não possua outros conteúdos preservados.
+A ausência de SHA-256 indica apenas que a referência não dispõe desse identificador nas bases utilizadas para consolidação do acervo. Isso não significa, necessariamente, que o respectivo software não possua outros conteúdos preservados.
 
 ## 8. Associação entre softwares e conteúdos
 
@@ -104,12 +103,8 @@ Esses conteúdos são classificados como **conteúdo histórico** quando sua nat
 Sua preservação tem finalidade documental e não implica que o conteúdo represente um artefato executável ou uma versão utilizável do software.
 
 ## 11. Publicação no GitHub
+A estrutura principal do repositório contém a documentação e os metadados do acervo:
 
-A estrutura principal do repositório contém documentação e metadados do acervo.
-
-A organização prevista é:
-
-```text
 acervo-spb-legado/
 ├── README.md
 ├── CATALOGO.md
@@ -118,3 +113,5 @@ acervo-spb-legado/
 └── softwares/
     └── <software>/
         └── METADADOS.md
+
+Os arquivos digitais preservados são disponibilizados por meio das Releases do GitHub, conforme a organização definida para cada software. Os respectivos arquivos METADADOS.md apresentam as informações de identificação e associação dos conteúdos.
