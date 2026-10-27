@@ -64,9 +64,15 @@ Não há garantia de:
 
 Qualquer decisão de executar, instalar, compilar ou reutilizar os conteúdos deve ser precedida de avaliação própria de segurança, compatibilidade e risco pelo interessado.
 
+A decisão de executar, instalar, compilar ou reutilizar qualquer conteúdo é de responsabilidade do interessado.
+
 ## Relatos de vulnerabilidade
 
-Caso seja identificada vulnerabilidade ou condição de segurança relacionada a conteúdo preservado neste repositório, a ocorrência poderá ser comunicada ao **CTIR Gov**, pelo endereço:
+Caso seja identificada vulnerabilidade ou condição de segurança relacionada a conteúdo preservado neste repositório, a ocorrência poderá ser comunicada ao ** CISC Gov.br**, pelo endereço:
+
+`cisc@gestao.gov.br`
+
+Quando houver incidente cibernético de maior impacto ou necessidade de coordenação com outros órgãos governamentais, o CTIR Gov poderá ser incluído na comunicação:
 
 `ctir@ctir.gov.br`
 
@@ -76,12 +82,12 @@ O relato deve indicar, sempre que possível:
 
 - o software afetado;
 - o nome do artefato;
-- o SHA-256 correspondente;
-- a descrição da vulnerabilidade ou condição identificada;
+- o SHA-256 registrado nos metadados;
+- a descrição da vulnerabilidade;
 - as condições necessárias para sua reprodução;
-- eventuais impactos conhecidos.
+- impactos conhecidos.
 
-O SHA-256 informado nos arquivos `METADADOS.md` pode ser utilizado para identificar de forma inequívoca o conteúdo ao qual o relato se refere.
+O SHA-256 pode ser utilizado como referência para auxiliar na identificação do conteúdo relacionado ao relato.
 
 Considerando o caráter histórico do acervo e a ausência de manutenção ativa dos softwares, o recebimento de um relato **não implica compromisso de correção, atualização ou disponibilização de nova versão do software**.
 
@@ -93,10 +99,10 @@ Considerando a natureza histórica do acervo, o recebimento de um relato de segu
 
 Quando pertinente, o relato poderá subsidiar:
 
-- inclusão de aviso adicional no acervo;
-- atualização da documentação;
-- registro de risco conhecido;
-- restrição ou reforço de orientação de uso;
+- correção da vulnerabilidade;
+- atualização do software;
+- disponibilização de nova versão;
+- restrição de acesso a determinado conteúdo;
 - outras medidas de caráter informativo ou preventivo.
 
 Os dados pessoais eventualmente fornecidos pelo responsável pelo relato, como nome e informações de contato, serão tratados em conformidade com a **Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)** e com as regras de privacidade aplicáveis ao canal utilizado para recebimento da comunicação.
@@ -105,7 +111,17 @@ Os dados pessoais eventualmente fornecidos pelo responsável pelo relato, como n
 
 Os valores SHA-256 apresentados nos metadados correspondem aos valores registrados nas bases consolidadas utilizadas na organização do acervo.
 
-O SHA-256 deve ser utilizado como referência para identificação do conteúdo digital correspondente nos registros do acervo.
+Esses valores devem ser utilizados como referências técnicas para identificação dos conteúdos digitais nos registros do acervo.
+
+O registro de um valor SHA-256 não constitui certificação de:
+
+- autenticidade;
+- segurança;
+- funcionamento;
+- ausência de vulnerabilidades;
+- ausência de código malicioso.
+
+A verificação de integridade exige o cálculo do SHA-256 sobre o arquivo examinado e sua comparação com o valor de referência correspondente.
 
 ## Natureza histórica e ausência de manutenção
 
@@ -117,7 +133,7 @@ Não há presunção de:
 - existência de equipe responsável pelo desenvolvimento;
 - suporte técnico;
 - atualização de dependências;
-- correção de vulnerabilidades;
+- ausência de vulnerabilidades;
 - compatibilidade com tecnologias atuais;
 - continuidade do projeto original.
 
