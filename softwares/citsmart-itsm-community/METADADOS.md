@@ -49,6 +49,27 @@ Foram identificados **34 conteúdo(s) digital(is) preservado(s)** associado(s) a
 | `Material_Construtor_de_Relatorios_e_Dashboards_v3.pdf` | Documentação | `30901ed144bd8d5dac169e4a6288fe4a1dd54695872ab5a00fc860c4f2ef7ec7` |
 | `versoes-estaveis` | Documentação | `068fed80cf08198e794d2f3be804f9d5423cb8bc80dbb312d617b82430b4d8e5` |
 
+## O arquivo abaixo é uma versão revisada adicional ao inventário histórico.
+
+- Nome do arquivo: `citsmartitsm-community-6.1.3.5-src-rev-acervo-20261027-r1.zip`
+- SHA-256: `7837c239e167c1016da400aa331efd6c54600d6d094a2387e3e471d395b5a488`
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-citsmart-itsm-community/citsmartitsm-community-6.1.3.5-src-rev-acervo-20261027-r1.zip
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-27
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: revisão pontual de conteúdo; instalação e funcionamento não verificados.
+
+## Retiradas da distribuição
+ 
+O inventário é histórico e inclui o arquivo retirado; o original permanece preservado internamente.
+ 
+- Nome original: `citsmartitsm-community-6.1.3.5-src.zip`
+- SHA-256: `ae1879704b30a5e92d9d47272e88d8e833719345149242976b6ef0f0329766ee`
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-27
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
+- Substituído por: `7837c239e167c1016da400aa331efd6c54600d6d094a2387e3e471d395b5a488`
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
