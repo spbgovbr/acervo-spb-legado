@@ -7,6 +7,7 @@ O acervo é mantido como registro histórico. A presença de um software ou arte
 ## Acervo preservado
 
 - **Softwares cadastrados:** 68
+- **Softwares com conteúdos:** 66
 - **Referências analisadas:** 465
 - **Conteúdos digitais únicos preservados:** 435
 - **Referências duplicadas:** 26
