@@ -21,3 +21,34 @@ Foram identificados **3 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+## Versão revisada adicional ao inventário histórico
+
+| Campo | Informação |
+|---|---|
+| Arquivo | `snep-2.0-rc1-sanitizado.tar.gz` |
+| SHA-256 | `BEBEDC3197E39345AD79E9CBA4A0FFD90E9D8FCBFE7638C90947C122795E4EDC` |
+| Situação | Versão sanitizada publicada no GitHub Releases |
+| Observação | Artefato revisado para remoção de credenciais e segredos embutidos. |
+| Validação | Integridade do arquivo compactado verificada; instalação e funcionamento completo não testados. |
+
+### Alterações de sanitização
+
+- Substituição de senhas de banco de dados embutidas pelo marcador `CHANGE_ME_DB_PASSWORD`.
+- Substituição do segredo AMI embutido pelo marcador `CHANGE_ME_AMI_SECRET`.
+- Ajustes nos scripts de instalação e backup para utilizar variáveis de ambiente e arquivos temporários de configuração, evitando a exposição de credenciais nos argumentos de linha de comando.
+- Atualização da documentação HTML gerada e inclusão do arquivo `SANITIZACAO.md`.
+
+**Atenção:** os marcadores de configuração devem ser substituídos por valores adequados antes da implantação.
+
+## Retiradas da distribuição
+
+| Campo | Informação |
+|---|---|
+| Arquivo original | `snep-2.0-rc1.tar.gz` |
+| SHA-256 original | `B54D8694C97B2B903C92651E1E1FAF564EDDBB16E7D069F9B2FE29D6E11686EE` |
+| Situação | Removido do GitHub Releases |
+| Motivo | Substituição pela versão sanitizada |
+| Arquivo substituto | `snep-2.0-rc1-sanitizado.tar.gz` |
+| SHA-256 do substituto | `BEBEDC3197E39345AD79E9CBA4A0FFD90E9D8FCBFE7638C90947C122795E4EDC` |
+| Data da retirada | Não informada |
