@@ -35,7 +35,9 @@ O inventário acima identifica o original histórico. A substituição desta ope
 
 - Nome do derivado intermediário: `snep-2.0-rc1.tar.gz`
 - SHA-256 do derivado intermediário: `bebedc3197e39345ad79e9cba4a0ffd90e9d8fcbfe7638c90947c122795e4edc`
-- Situação: em substituição; retirada pendente de confirmação
+- Situação: removido da distribuição via GitHub Releases
+- Data da retirada: 2026-10-28
+- Motivo: incompatibilidade com os critérios de distribuição do acervo
 - Substituto publicado: `snep-2.0-rc1-rev-acervo-20261028-r1.tar.gz`
 - SHA-256 do substituto: `d237143f1e89f5521d72e29c343f1e440f59ddb35a3a6eb8231a710b882002fb`
 
