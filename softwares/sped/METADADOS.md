@@ -43,3 +43,24 @@ O inventário é histórico e inclui o arquivo retirado; o original permanece pr
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+
+
+## Versão revisada do código-fonte
+
+- **Nome do arquivo:** `sped-codigo-fonte-2.4.12-rev-acervo-20261026-r1.zip`
+- **SHA-256:** `6C8F0547CC9C1FE19107D541FE285E7B07917D684A10B7AC1DAA2DDA4F696B5F`
+- **Download:** disponível via GitHub Releases.
+- **Situação:** versão sanitizada publicada no GitHub Releases.
+- **Observação:** revisão do código-fonte para remoção de credenciais de proxy embutidas no arquivo `Sped/WEB-INF/classes/instaladorSigadaer/noServidor/conf/apt.conf`.
+- **Limitação:** instalação e funcionamento completo não testados.
+
+## Retirada da distribuição do código-fonte original
+
+- **Nome original:** `sped-codigo-fonte-2.4.12.zip`
+- **SHA-256:** `2923A1987AD26E5EDB19BFF1A7BA6E0646A48EDA1EFB32243B1864DD6E7747C3`
+- **Situação:** removido do GitHub Releases.
+- **Motivo:** substituição pela versão sanitizada.
+- **Arquivo substituto:** `sped-codigo-fonte-2.4.12-rev-acervo-20261026-r1.zip`
+- **SHA-256 do substituto:** `6C8F0547CC9C1FE19107D541FE285E7B07917D684A10B7AC1DAA2DDA4F696B5F`
+- **Data da retirada:** não informada.
