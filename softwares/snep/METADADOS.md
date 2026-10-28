@@ -18,6 +18,27 @@ Foram identificados **3 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 | `snep-2.0-rc1.tar.gz` | Arquivo compactado | `b54d8694c97b2b903c92651e1e1faf564eddbb16e7d069f9b2fe29d6e11686ee` |
 | `versoes.html` | Conteúdo histórico | `d2b4ee37b03079ea7caabe4f489b14761560cbea9845375293aeac4dc09f02b1` |
 
+## Versão revisada adicional ao inventário histórico
+
+- Nome do arquivo: `snep-2.0-rc1-rev-acervo-20261028-r1.tar.gz`
+- SHA-256: `d237143f1e89f5521d72e29c343f1e440f59ddb35a3a6eb8231a710b882002fb`
+- Tamanho: 15284920 bytes
+- Download: https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-snep/snep-2.0-rc1-rev-acervo-20261028-r1.tar.gz
+- Situação: disponível via GitHub Releases
+- Data da publicação: 2026-10-28
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Limitação: requer configuração própria de banco e AMI conforme `SANITIZACAO.md`; instalação, atualização, desinstalação, backup e telefonia não verificados funcionalmente.
+
+## Histórico de distribuição
+
+O inventário acima identifica o original histórico. A substituição desta operação refere-se ao derivado intermediário abaixo, distribuído anteriormente sob o mesmo nome, mas com SHA-256 diferente do original catalogado.
+
+- Nome do derivado intermediário: `snep-2.0-rc1.tar.gz`
+- SHA-256 do derivado intermediário: `bebedc3197e39345ad79e9cba4a0ffd90e9d8fcbfe7638c90947c122795e4edc`
+- Situação: em substituição; retirada pendente de confirmação
+- Substituto publicado: `snep-2.0-rc1-rev-acervo-20261028-r1.tar.gz`
+- SHA-256 do substituto: `d237143f1e89f5521d72e29c343f1e440f59ddb35a3a6eb8231a710b882002fb`
+
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
