@@ -33,3 +33,22 @@ O inventário acima é histórico e inclui os arquivos retirados da distribuiç�
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+## Versão revisada adicional ao inventário histórico
+
+- Nome do arquivo: `app-rev-sanitizado.zip`
+- SHA-256: `0918946F519DCF2FA0F0B77795B1F91E184A3630E893EDC938D94089F36BB8A7`
+- Situação: disponível via GitHub Releases
+- Observação: versão revisada para disponibilização no acervo, em substituição ao arquivo anteriormente distribuído.
+- Alterações de sanitização: remoção de chaves do Google Maps.
+- Limitação: revisão pontual de conteúdo; instalação e funcionamento não verificados.
+
+## Retiradas da distribuição
+
+O inventário é histórico e inclui o arquivo retirado; o original permanece preservado internamente.
+
+- Nome original: `app.zip`
+- SHA-256: `b2a99293860054baccaad91eba4c200a08f329824ab5b0a4b92e2cf2570835b0`
+- Situação: removido da distribuição via GitHub Releases
+- Motivo: substituição por versão revisada após remoção de chaves do Google Maps
+- Substituído por: `0918946F519DCF2FA0F0B77795B1F91E184A3630E893EDC938D94089F36BB8A7`
