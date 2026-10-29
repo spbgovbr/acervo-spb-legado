@@ -1,5 +1,23 @@
 # SPED - Sistema de protocolo eletrônico
 
+## Distribuição vigente
+
+4 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [manual_utilizacao_SPED.tar.gz](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sped/manual_utilizacao_SPED.tar.gz) | 521351677 | 3914624 | `62729a8f7e9901d27161644c543761fbb0f5de16187602103fa0ba23257a7a4c` |
+| [sped-codigo-fonte-2.4.12.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sped/sped-codigo-fonte-2.4.12.zip) | 679350252 | 53643260 | `6c8f0547cc9c1fe19107d541fe285e7b07917d684a10b7ac1daa2dda4f696b5f` |
+| [sped-install__16a9054656ce.tar.gz](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sped/sped-install__16a9054656ce.tar.gz) | 521351927 | 38161 | `16a9054656ce1252ab0cea4d5f8a301e163bc72db8566bada8fa271bd0d6a60f` |
+| [sped-install__c365c2c3b961-rev-acervo-20261026-r1.tar.gz](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sped/sped-install__c365c2c3b961-rev-acervo-20261026-r1.tar.gz) | 682279764 | 56158140 | `66c9bb65de06cb7af63c93b422706f6f7cb2fa62fbbdfd1bc1d04831a3f63f91` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# SPED - Sistema de protocolo eletrônico
+
 ## Identificação
 
 **Software:** SPED - Sistema de protocolo eletrônico
@@ -64,3 +82,5 @@ Este registro integra o acervo histórico do Software Público Brasileiro. A pre
 - **Arquivo substituto:** `sped-codigo-fonte-2.4.12-rev-acervo-20261026-r1.zip`
 - **SHA-256 do substituto:** `6C8F0547CC9C1FE19107D541FE285E7B07917D684A10B7AC1DAA2DDA4F696B5F`
 - **Data da retirada:** não informada.
+
+</details>

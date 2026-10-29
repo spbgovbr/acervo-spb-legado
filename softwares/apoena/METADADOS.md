@@ -1,5 +1,22 @@
 # Apoena - Democratizando Informações
 
+## Distribuição vigente
+
+3 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [apoena-rev-acervo-20261029-r1.tar.gz](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-apoena/apoena-rev-acervo-20261029-r1.tar.gz) | 688995823 | 12447829 | `f47ef06903338822a448f77d7135dd9cd26b1782599a3c1548c65314d9a077ae` |
+| [Manual_Apoena.txt](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-apoena/Manual_Apoena.txt) | 518543668 | 1023 | `45ab2c42458123f5c4fe21d81df92fcf96de11101426168645a68a35a6db64fd` |
+| [Manual_Instalacao_Apoena.txt](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-apoena/Manual_Instalacao_Apoena.txt) | 518543666 | 1128 | `02a6e060edc17edd019913066b45888eddc06df19451d351e5f606456deddbfe` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Apoena - Democratizando Informações
+
 ## Identificação
 
 **Software:** Apoena - Democratizando Informações
@@ -40,3 +57,5 @@ O inventário é histórico e inclui o arquivo retirado; o original permanece pr
 - Situação: removido da distribuição via GitHub Releases
 - Motivo: revisão de segurança e substituição de credenciais fixas de proxy
 - Substituído por: `A12478723DF0E5C8CC2BCA7338CD9F2AB1B554572B7314EC5ECFA60351D8FB32`
+
+</details>

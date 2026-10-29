@@ -1,5 +1,23 @@
 # Cocar
 
+## Distribuição vigente
+
+4 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [cocar.tar.gz](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-cocar/cocar.tar.gz) | 518621677 | 1196925 | `a7c580d5d4e83bb13d8edad738a706525eccc802b4b104ce1e3316428fc06cd1` |
+| [cocar_doc.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-cocar/cocar_doc.pdf) | 518621767 | 1074507 | `7d53995fb1dc45752a452df8dd50e4ba836fbe5ee7e38eef096b9388a0650163` |
+| [instala-cocar.sh](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-cocar/instala-cocar.sh) | 518621844 | 16299 | `276fd2e4c733a0d56b59d87b1e265833d8d4ff6a20d7535798f35b338d43a7c0` |
+| [Instalacao_configuracao.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-cocar/Instalacao_configuracao.pdf) | 518621643 | 225572 | `fad8366a9ba28b53d0ab555322ea5e9edacd213bc686b569e9fbf89d03cc6389` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Cocar
+
 ## Identificação
 
 **Software:** Cocar
@@ -22,3 +40,5 @@ Foram identificados **4 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

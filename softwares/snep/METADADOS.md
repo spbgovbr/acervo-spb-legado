@@ -1,5 +1,22 @@
 # SNEP
 
+## Distribuição vigente
+
+3 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [manual-instalacao-snep-20.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-snep/manual-instalacao-snep-20.pdf) | 521351239 | 451678 | `f883ae987b4c2737c6977dce4f808c555636581c77e8f063a500cc71827c0d11` |
+| [snep-2.0-rc1-rev-acervo-20261028-r1.tar.gz](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-snep/snep-2.0-rc1-rev-acervo-20261028-r1.tar.gz) | 685094838 | 15284920 | `d237143f1e89f5521d72e29c343f1e440f59ddb35a3a6eb8231a710b882002fb` |
+| [versoes.html](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-snep/versoes.html) | 521351370 | 31533 | `d2b4ee37b03079ea7caabe4f489b14761560cbea9845375293aeac4dc09f02b1` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# SNEP
+
 ## Identificação
 
 **Software:** SNEP
@@ -75,3 +92,5 @@ Este registro integra o acervo histórico do Software Público Brasileiro. A pre
 | Arquivo substituto | `snep-2.0-rc1-sanitizado.tar.gz` |
 | SHA-256 do substituto | `BEBEDC3197E39345AD79E9CBA4A0FFD90E9D8FCBFE7638C90947C122795E4EDC` |
 | Data da retirada | Não informada |
+
+</details>

@@ -1,5 +1,26 @@
 # Curupira
 
+## Distribuição vigente
+
+7 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [curupira-1.4.17.tar.gz](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-curupira/curupira-1.4.17.tar.gz) | 518622337 | 1536480 | `d3dbc76c2c8663ef116005e8ff8eefa11f732f49f1e19fff9f59d2b7a24546b9` |
+| [instalacao-curupira-etch.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-curupira/instalacao-curupira-etch.pdf) | 518622423 | 39166 | `9f1b966f46e7c16f865c95b03a4530852284a8650a2ffd7c6bb2c9cefc82fc05` |
+| [instalacao-srv-debian-4-etch-novo.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-curupira/instalacao-srv-debian-4-etch-novo.pdf) | 518622469 | 39220 | `5559951a12ffea6be3255e6af349b6170b4362a954f7990dfa407a045403d368` |
+| [Instalacao_CURUPIRA_Etch.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-curupira/Instalacao_CURUPIRA_Etch.pdf) | 518622100 | 533659 | `1cdb797a44a00d5121a36d8a2574f6d3ed85546d18280063d86929f7d0a80351` |
+| [Instalacao_Srv_Debian_4_Etch_novo.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-curupira/Instalacao_Srv_Debian_4_Etch_novo.pdf) | 518622186 | 920638 | `f43e1f21dab771c7cf2ffb850ee04a9cdc19c95ed5f4bf3520c1da17eca73749` |
+| [MigracaoSargeEtch.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-curupira/MigracaoSargeEtch.pdf) | 518622260 | 170039 | `503bf1723c1d85bcd0115257a343fd2048377d7b5726b67b972d625147ea67a0` |
+| [versoes.html](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-curupira/versoes.html) | 518622502 | 32861 | `1f3109c08a719c4500d885e8a21f9133d2c2238f9c1023a1c09b12b31296ad45` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Curupira
+
 ## Identificação
 
 **Software:** Curupira
@@ -25,3 +46,5 @@ Foram identificados **7 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

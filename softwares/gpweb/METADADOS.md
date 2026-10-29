@@ -1,5 +1,26 @@
 # GPWeb
 
+## Distribuição vigente
+
+7 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [apresentacao.ppt](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-gpweb/apresentacao.ppt) | 518631284 | 42585600 | `fd91b62c3e846b9b180c3d689e6774de7b0b0864fbdb33a8acfe70e6d2f7638b` |
+| [gpweb-8-5-22-18mar19-rev-acervo-20261029-r1.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-gpweb/gpweb-8-5-22-18mar19-rev-acervo-20261029-r1.zip) | 688997188 | 25605509 | `f1ac1b58675aab6c4e925b724a9671ca7d93d498470621fdb98e8152aa16081d` |
+| [gpweb_8_5_19_25out18-rev-acervo-20261029-r1.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-gpweb/gpweb_8_5_19_25out18-rev-acervo-20261029-r1.zip) | 688996275 | 25569170 | `57a2de493799daabef86d460d6a6ad0b6bea7a38043fe386ba640473ee34feae` |
+| [manual-gpweb-2018.doc](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-gpweb/manual-gpweb-2018.doc) | 518632900 | 43191 | `3030bb947d659cd28e0dbdbf97b91546a69f245b7ccb838e45d2e0087f2ed4b6` |
+| [manual_gpweb.doc](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-gpweb/manual_gpweb.doc) | 518632927 | 81924096 | `57f6b92e13c37775ddb85a7ee6419e9f0ffe8b51ecf13c36193501c96587d7d4` |
+| [manual_gpweb_2018.doc](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-gpweb/manual_gpweb_2018.doc) | 518634735 | 158035968 | `4d27cccba20fd9d3ed1b4f209426cf335ebb41c420bcda4324aee9b172d4b67f` |
+| [manual_instalacao.doc](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-gpweb/manual_instalacao.doc) | 518638466 | 46592 | `e7d7e6049f777c868f4d3fd1795b03a7ca843f608734ba8764143f5fc9bb0d8a` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# GPWeb
+
 ## Identificação
 
 **Software:** GPWeb
@@ -65,3 +86,5 @@ O inventário é histórico e inclui os arquivos retirados; os originais permane
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

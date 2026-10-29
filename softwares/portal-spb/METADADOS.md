@@ -1,5 +1,22 @@
 # SPB - Portal do Software Público Brasileiro
 
+## Distribuição vigente
+
+3 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [Manual_de_Administra__o_das_Comunidades_do_Software_-_SPB.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-portal-spb/Manual_de_Administra__o_das_Comunidades_do_Software_-_SPB.pdf) | 521351457 | 2375775 | `4a33d1719a1eac77c0d9ccaadcb7766f789f00607a6b321b51abe0f795e15e14` |
+| [v4.0-rev-acervo-20261026-r1.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-portal-spb/v4.0-rev-acervo-20261026-r1.zip) | 681941907 | 212049 | `d7cb7443f8b3f452e07b826682f32cafefd71b3aa0d89cfb24037dcc19215735` |
+| [v4.1-rev-acervo-20261026-r1.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-portal-spb/v4.1-rev-acervo-20261026-r1.zip) | 681876319 | 4333827 | `818c0df9e6a0179faa7fcc9e14d6056d4b829a4ab6392a9303d6456ebc43639e` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# SPB - Portal do Software Público Brasileiro
+
 ## Identificação
 
 **Software:** SPB - Portal do Software Público Brasileiro
@@ -61,3 +78,4 @@ O inventário é histórico e inclui os arquivos retirados; os originais permane
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+</details>

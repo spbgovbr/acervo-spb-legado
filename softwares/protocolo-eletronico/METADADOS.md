@@ -1,5 +1,23 @@
 # Protocolo Eletrônico
 
+## Distribuição vigente
+
+4 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [MANUAL_PROTOCOLO_MP_GERENCIAMENTO_12-12-2018__2_.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-protocolo-eletronico/MANUAL_PROTOCOLO_MP_GERENCIAMENTO_12-12-2018__2_.pdf) | 521346176 | 2420007 | `da737c5b865568a5d2d0f0c97c78496b842bbe79b719d984d2cb7811f8b03041` |
+| [MANUAL_PROTOCOLO_MP_USUARIO_periodo_eleitoral_27-09-2018__1_.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-protocolo-eletronico/MANUAL_PROTOCOLO_MP_USUARIO_periodo_eleitoral_27-09-2018__1_.pdf) | 521346203 | 570806 | `800d19c59ef114b6b7152ab4ae38000e6bd6d4282bbc9506e85c31c2a87f901e` |
+| [protocolo-rev-acervo-20261023-r1.war](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-protocolo-eletronico/protocolo-rev-acervo-20261023-r1.war) | 670195891 | 45163179 | `74318f0ead1a73678739dd05103e48f31158c6b9ab5bbe1fcd85a8c8dc285b1d` |
+| [versoes.html](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-protocolo-eletronico/versoes.html) | 521346427 | 31080 | `744ecb3e9e39da9e910a1c9ddbc0fcc71bb5b205a656a06f6bf32e2aee813aa6` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Protocolo Eletrônico
+
 ## Identificação
 
 **Software:** Protocolo Eletrônico
@@ -45,3 +63,5 @@ O inventário é histórico e inclui o arquivo retirado; o original permanece pr
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

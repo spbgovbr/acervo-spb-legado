@@ -1,5 +1,22 @@
 # Urbem CNM
 
+## Distribuição vigente
+
+3 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [29072016-urbem_2.05.3-rev-acervo-20261029-r1.tar.bz2](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-urbem-cnm/29072016-urbem_2.05.3-rev-acervo-20261029-r1.tar.bz2) | 688992740 | 50667031 | `55ed8d85eb96c81e87d6c3e78cf32c6843fe8298bc09de5e8e441af0302d1352` |
+| [urbem-2.05.3.sql.bz2](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-urbem-cnm/urbem-2.05.3.sql.bz2) | 521352910 | 6004664 | `930576cba7e2157a7e841f8353a5353965d3796e7d708c85463485ff440e2c7e` |
+| [versoes-estaveis.html](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-urbem-cnm/versoes-estaveis.html) | 521352938 | 33743 | `66fa7a0dd577a17ac6d5314159e43a5fa93d37c7be5f9dffea3ec75fab0cef3d` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Urbem CNM
+
 ## Identificação
 
 **Software:** Urbem CNM
@@ -44,3 +61,5 @@ O inventário é histórico e inclui o arquivo retirado; o original permanece pr
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

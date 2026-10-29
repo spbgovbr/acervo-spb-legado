@@ -1,5 +1,24 @@
 # Xemelê
 
+## Distribuição vigente
+
+5 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [software_publico.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-xemele/software_publico.zip) | 521354297 | 212165 | `043cdae3892cb8b81811b31b3e634e6545bcb4bc0e577ed2c7734ea1304ffa35` |
+| [versoes.html](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-xemele/versoes.html) | 521354331 | 31312 | `7784c2c216c1b01e21bc580acc070656bf9015d3cc3d5223d1c217526cb0cbcd` |
+| [Xemel__01_-_WordPress-_No__es_B_sicas.mp4](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-xemele/Xemel__01_-_WordPress-_No__es_B_sicas.mp4) | 521354129 | 5606445 | `e2a74715f34d4f7eb900857c3fca13f5359b07d50e06ad209ba58e4164fc66d7` |
+| [Xemel__02_-_Instalando_Plugins.mp4](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-xemele/Xemel__02_-_Instalando_Plugins.mp4) | 521354162 | 7800754 | `4ffde2fa9dafab4ebc0452dea81eaf3c5c8fafcff17aad956a1a8767769a23b9` |
+| [Xemel__03_-_Ativando_o_Tema__Software_P_blico_.mp4](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-xemele/Xemel__03_-_Ativando_o_Tema__Software_P_blico_.mp4) | 521354217 | 8264267 | `0693ecbb4eeed5d07450a9dc4c3d96b668e102e5e57c96ae6cbbbcea58e47d62` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Xemelê
+
 ## Identificação
 
 **Software:** Xemelê
@@ -23,3 +42,5 @@ Foram identificados **5 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

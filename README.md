@@ -9,7 +9,8 @@ O acervo é mantido como registro histórico. A presença de um software ou arte
 - **Softwares cadastrados:** 68
 - **Softwares com conteúdos:** 66
 - **Referências analisadas:** 465
-- **Conteúdos digitais únicos preservados:** 435
+- **Conteúdos digitais originais no inventário histórico:** 435
+- **Downloads na distribuição vigente:** 431
 - **Referências duplicadas:** 26
 - **Referências históricas sem hash SHA-256:** 4
 
@@ -45,13 +46,13 @@ acervo-spb-legado/
 
 Os conteúdos digitais preservados são tratados separadamente da documentação estrutural deste repositório.
 
-Na publicação do acervo no GitHub, os artefatos digitais poderão ser disponibilizados como **assets de Releases**, evitando a inclusão de arquivos binários e de grande volume diretamente no histórico Git do repositório.
+Os artefatos digitais são disponibilizados como **assets de Releases**, evitando a inclusão de arquivos binários e de grande volume diretamente no histórico Git do repositório.
 
 A relação entre cada conteúdo e seu respectivo software permanece registrada nos arquivos `METADADOS.md`.
 
 ## Integridade
 
-Os valores SHA-256 apresentados nos metadados correspondem aos valores registrados nas bases consolidadas utilizadas na organização do acervo.
+Os SHA-256 do inventário histórico identificam os originais das bases consolidadas. Os SHA-256 da distribuição vigente identificam os downloads atuais, incluindo os derivados revisados.
 
 ## Natureza histórica do acervo
 
@@ -72,3 +73,11 @@ Os critérios adotados para organização, preservação e disponibilização do
 Informações relacionadas à natureza histórica dos softwares e à comunicação de questões de segurança estão disponíveis em:
 
 **[SECURITY.md](SECURITY.md)**
+
+## Distribuição e integridade — atualização de 29/10/2026
+
+O inventário histórico identifica 435 originais; a distribuição vigente contém 431 downloads em 66 Releases. Quatro conteúdos foram retirados em operação anterior. A substituição de 16 downloads por derivados revisados mantém a contagem em 431. Os nomes, tamanhos e SHA-256 vigentes estão em [INVENTARIO-DISTRIBUICAO.json](INVENTARIO-DISTRIBUICAO.json) e nos metadados de cada software. Os hashes dos derivados podem diferir dos originais históricos.
+
+A conferência de integridade é descrita em [INTEGRIDADE.md](INTEGRIDADE.md). As revisões são dirigidas e não constituem certificação de ausência de vulnerabilidades ou dados pessoais em todo o acervo.
+
+As licenças que acompanham os softwares e as referências do [portal do Software Público](https://softwarepublico.dth.sisp.gov.br/) são preservadas. Não se atribui uma licença geral nova aos softwares de terceiros.

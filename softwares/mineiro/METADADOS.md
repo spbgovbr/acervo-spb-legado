@@ -1,5 +1,23 @@
 # Mineiro
 
+## Distribuição vigente
+
+4 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [mineiro-b97f09701c8cca419e2d9dba72130c32368b7946.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-mineiro/mineiro-b97f09701c8cca419e2d9dba72130c32368b7946.zip) | 518714813 | 2181064 | `8fcfc6846ee8e92623e2195cc7546a716fec66b781a1d60198863ad85b0e81b2` |
+| [mineiro-manual-de-instala-o__4f917add13e4.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-mineiro/mineiro-manual-de-instala-o__4f917add13e4.pdf) | 518714871 | 503508 | `4f917add13e487783f757a59f5021de9c6be59c55a90f1c157f612799b915816` |
+| [mineiro-manual-de-instala-o__5e8df1b7887f.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-mineiro/mineiro-manual-de-instala-o__5e8df1b7887f.pdf) | 518714892 | 38060 | `5e8df1b7887f67f5f6206d4f1babb1c0bd1bee6452cda96e37ab916f039f9f4c` |
+| [versoes.html](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-mineiro/versoes.html) | 518714907 | 31406 | `557c4a035bba45b5b09288a431ee339aacb0065d3e47dcf541688b603b550906` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Mineiro
+
 ## Identificação
 
 **Software:** Mineiro
@@ -22,3 +40,5 @@ Foram identificados **4 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

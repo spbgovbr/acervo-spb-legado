@@ -1,0 +1,23 @@
+name: Integridade do acervo
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  inventario:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Validar inventário
+        run: python3 scripts/verificar_integridade.py
+      - name: Conferir distribuição no GitHub
+        if: github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/verificar_integridade.py --remoto spbgovbr/acervo-spb-legado

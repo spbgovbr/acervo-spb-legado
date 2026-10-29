@@ -43,7 +43,7 @@ As operações de organização, classificação e preparação para publicaçã
 
 O SHA-256 é utilizado como identificador técnico dos conteúdos digitais preservados e como mecanismo auxiliar de verificação de integridade.
 
-Os 435 valores SHA-256 registrados neste repositório correspondem aos valores constantes das bases consolidadas do antigo ambiente web do SPB.
+Os 435 valores SHA-256 do inventário histórico original correspondem aos valores constantes das bases consolidadas do antigo ambiente web do SPB.
 
 Esses valores foram conferidos entre as bases consolidadas antes da geração dos metadados do repositório.
 
@@ -115,3 +115,11 @@ acervo-spb-legado/
         └── METADADOS.md
 
 Os arquivos digitais preservados são disponibilizados por meio das Releases do GitHub, conforme a organização definida para cada software. Os respectivos arquivos METADADOS.md apresentam as informações de identificação e associação dos conteúdos.
+
+## Distribuição e integridade — atualização de 29/10/2026
+
+O inventário histórico identifica 435 originais; a distribuição vigente contém 431 downloads em 66 Releases. Quatro conteúdos foram retirados em operação anterior. A substituição de 16 downloads por derivados revisados mantém a contagem em 431. Os nomes, tamanhos e SHA-256 vigentes estão em [INVENTARIO-DISTRIBUICAO.json](INVENTARIO-DISTRIBUICAO.json) e nos metadados de cada software. Os hashes dos derivados podem diferir dos originais históricos.
+
+A conferência de integridade é descrita em [INTEGRIDADE.md](INTEGRIDADE.md). As revisões são dirigidas e não constituem certificação de ausência de vulnerabilidades ou dados pessoais em todo o acervo.
+
+As licenças que acompanham os softwares e as referências do [portal do Software Público](https://softwarepublico.dth.sisp.gov.br/) são preservadas. Não se atribui uma licença geral nova aos softwares de terceiros.

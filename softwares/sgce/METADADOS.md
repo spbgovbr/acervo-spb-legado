@@ -1,5 +1,21 @@
 # SGCE - Sistema de Gestão de Certificados Eletrônicos
 
+## Distribuição vigente
+
+2 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [sgce_1.0.3-rev-acervo-20261023-r1.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgce/sgce_1.0.3-rev-acervo-20261023-r1.zip) | 670210041 | 5883227 | `43f319c9097b831f96477df2b0f567c27e434a0d9bf943118313db01d7d03743` |
+| [versoes.html](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgce/versoes.html) | 521348676 | 33064 | `a557c3cf58de4e8080bc3d1f8176f368a6efd16e2f8da31823143424a303cb10` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# SGCE - Sistema de Gestão de Certificados Eletrônicos
+
 ## Identificação
 
 **Software:** SGCE - Sistema de Gestão de Certificados Eletrônicos
@@ -43,3 +59,5 @@ O inventário é histórico e inclui o arquivo retirado; o original permanece pr
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

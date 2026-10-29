@@ -1,5 +1,29 @@
 # SGD - SGD - Sistema de Gestão de Demandas
 
+## Distribuição vigente
+
+10 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [Apresenta__o_Geral_SGD.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/Apresenta__o_Geral_SGD.pdf) | 521348744 | 686120 | `ae8e62aabc081ea442848459df71d490c48a1d690b1135bfca2ec3e08c353bea` |
+| [d_vidas_instala__o.docx](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/d_vidas_instala__o.docx) | 521348778 | 204812 | `1ee9d9891b5519d87a02a881918bb1c9874d01c68765c8c16945b404c1861767` |
+| [instalando-o-sgd.mp4](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/instalando-o-sgd.mp4) | 521348793 | 14018826 | `a2fc083f148fad1fae94f2e6fbe591e40dffd2f033baaf130fdf483acfc11fb7` |
+| [manual_05_11_07.doc](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/manual_05_11_07.doc) | 521348873 | 3004928 | `8956a14172cc61569a49b9fae7d0197243bfe5d812d31e6e528a5018513d1458` |
+| [manual_05_11_07.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/manual_05_11_07.pdf) | 521348932 | 1628040 | `fae56a95b0132946911f540ea37974555502382d6b5fd9ef0df9ee41ecefbbb9` |
+| [manual_05_11_09.odt](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/manual_05_11_09.odt) | 521348957 | 2965216 | `450443acc9620256ec021c7fffd5603def601edecc3064c5a33272d7ad065650` |
+| [script_instalacao_ubuntu.tar.gz](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/script_instalacao_ubuntu.tar.gz) | 521348979 | 1573 | `072224bf63472848dcc0cc1d6e15db51024eb9bca6f4eb4f7cf406a417f7042f` |
+| [sgd-manual-do-usuario-20171105.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/sgd-manual-do-usuario-20171105.pdf) | 521349012 | 43463 | `48734403d2050e759bb5bdf9ce9b256caaecc12c9b44a1399e047c3cee0867ec` |
+| [sgd1.0-r1-rev-acervo-20261023-r1.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/sgd1.0-r1-rev-acervo-20261023-r1.zip) | 670219407 | 6915784 | `e18b889ccb91503460ec80acfbe080d53ad92c95ead8a8f6929b2986731bd89f` |
+| [versoes.html](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-sgd/versoes.html) | 521349087 | 36823 | `df4c1a4a07a2e8dbde9370e62955f86bbbf762cc3c7c4c755c368627385dddee` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# SGD - SGD - Sistema de Gestão de Demandas
+
 ## Identificação
 
 **Software:** SGD - SGD - Sistema de Gestão de Demandas
@@ -51,3 +75,5 @@ O inventário é histórico e inclui o arquivo retirado; o original permanece pr
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

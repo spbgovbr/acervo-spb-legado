@@ -7,7 +7,8 @@ Este catálogo reúne os softwares cadastrados no acervo histórico do Software 
 - **Softwares cadastrados:** 68
 - **Softwares com conteúdos:** 66
 - **Referências analisadas:** 465
-- **Conteúdos digitais únicos preservados:** 435
+- **Conteúdos digitais originais no inventário histórico:** 435
+- **Downloads na distribuição vigente:** 431
 - **Referências duplicadas:** 26
 - **Referências históricas sem hash:** 4
 
@@ -17,7 +18,7 @@ As referências históricas sem hash permanecem registradas como parte do levant
 
 ## Softwares
 
-| Software | Conteúdos digitais preservados | Metadados |
+| Software | Downloads na distribuição vigente | Metadados |
 |---|---:|---|
 | Ação | 4 | [Consultar](softwares/acao/METADADOS.md) |
 | ÁGATHA | 0 | [Consultar](softwares/agatha/METADADOS.md) |
@@ -41,7 +42,7 @@ As referências históricas sem hash permanecem registradas como parte do levant
 | Fila | 6 | [Consultar](softwares/fila/METADADOS.md) |
 | FormDin | 3 | [Consultar](softwares/formdin/METADADOS.md) |
 | GEPLANES - Software de Gestão do Planejamento Estratégico, com a Qualidade como braço direito | 9 | [Consultar](softwares/geplanes/METADADOS.md) |
-| Gepnet - Gepnet | 24 | [Consultar](softwares/gepnet/METADADOS.md) |
+| Gepnet - Gepnet | 22 | [Consultar](softwares/gepnet/METADADOS.md) |
 | GGAS | 3 | [Consultar](softwares/ggas/METADADOS.md) |
 | Ginga | 5 | [Consultar](softwares/ginga/METADADOS.md) |
 | Gnuteca | 2 | [Consultar](softwares/gnuteca/METADADOS.md) |
@@ -58,7 +59,7 @@ As referências históricas sem hash permanecem registradas como parte do levant
 | Linux Educacional | 4 | [Consultar](softwares/linux-educacional/METADADOS.md) |
 | MDArte | 4 | [Consultar](softwares/mdarte/METADADOS.md) |
 | Mineiro | 4 | [Consultar](softwares/mineiro/METADADOS.md) |
-| NAVi | 5 | [Consultar](softwares/navi/METADADOS.md) |
+| NAVi | 4 | [Consultar](softwares/navi/METADADOS.md) |
 | Noosfero Gov | 4 | [Consultar](softwares/noosfero-gov/METADADOS.md) |
 | OASIS | 10 | [Consultar](softwares/oasis/METADADOS.md) |
 | OpenACS | 3 | [Consultar](softwares/openacs/METADADOS.md) |
@@ -73,7 +74,7 @@ As referências históricas sem hash permanecem registradas como parte do levant
 | SGD - SGD - Sistema de Gestão de Demandas | 10 | [Consultar](softwares/sgd/METADADOS.md) |
 | SGF - Sistema de Gestão de Frotas | 6 | [Consultar](softwares/sgf/METADADOS.md) |
 | Siaudi - Sistema de Auditoria | 5 | [Consultar](softwares/siaudi/METADADOS.md) |
-| SIMEC - Sistema Integrado de Planejamento Orçamento e Finanças | 5 | [Consultar](softwares/simec/METADADOS.md) |
+| SIMEC - Sistema Integrado de Planejamento Orçamento e Finanças | 4 | [Consultar](softwares/simec/METADADOS.md) |
 | Sin-Processo | 0 | [Consultar](softwares/sin-processo/METADADOS.md) |
 | Sisau-Saci-Contra | 8 | [Consultar](softwares/sisau-saci-contra/METADADOS.md) |
 | SISMURPS - Sistema de Monitoramento do Usuário de Proteção Social | 9 | [Consultar](softwares/sismurps/METADADOS.md) |
@@ -91,3 +92,11 @@ As referências históricas sem hash permanecem registradas como parte do levant
 ## Observação sobre preservação
 
 O acervo possui finalidade histórica e de preservação. A presença de um software ou artefato neste catálogo não representa indicação de manutenção ativa, atualização, segurança, compatibilidade ou adequação para uso em ambiente de produção.
+
+## Distribuição e integridade — atualização de 29/10/2026
+
+O inventário histórico identifica 435 originais; a distribuição vigente contém 431 downloads em 66 Releases. Quatro conteúdos foram retirados em operação anterior. A substituição de 16 downloads por derivados revisados mantém a contagem em 431. Os nomes, tamanhos e SHA-256 vigentes estão em [INVENTARIO-DISTRIBUICAO.json](INVENTARIO-DISTRIBUICAO.json) e nos metadados de cada software. Os hashes dos derivados podem diferir dos originais históricos.
+
+A conferência de integridade é descrita em [INTEGRIDADE.md](INTEGRIDADE.md). As revisões são dirigidas e não constituem certificação de ausência de vulnerabilidades ou dados pessoais em todo o acervo.
+
+As licenças que acompanham os softwares e as referências do [portal do Software Público](https://softwarepublico.dth.sisp.gov.br/) são preservadas. Não se atribui uma licença geral nova aos softwares de terceiros.

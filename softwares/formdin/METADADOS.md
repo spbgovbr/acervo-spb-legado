@@ -1,5 +1,22 @@
 # FormDin
 
+## Distribuição vigente
+
+3 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [C_digo_Fonte_FormDin_2015-03-20.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-formdin/C_digo_Fonte_FormDin_2015-03-20.zip) | 518625760 | 11706368 | `1a92a1ccdf27ad510f596ffee0a23ebd37eb1fccc646ffe8b95791eec5dc519d` |
+| [manual-instalacao-formdin__5b0bf8a0da90.odt](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-formdin/manual-instalacao-formdin__5b0bf8a0da90.odt) | 518626030 | 39905 | `5b0bf8a0da90cf32d594c4b7e9801fe952ef62abb6cab96704fb774b04173474` |
+| [manual-instalacao-formdin__a9db7fbde387.odt](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-formdin/manual-instalacao-formdin__a9db7fbde387.odt) | 518626098 | 159656 | `a9db7fbde387b13be26e8681dc1d8e9f318865d98a01bfae93122e1d2ebe3396` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# FormDin
+
 ## Identificação
 
 **Software:** FormDin
@@ -21,3 +38,5 @@ Foram identificados **3 conteúdo(s) digital(is) preservado(s)** associado(s) a 
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

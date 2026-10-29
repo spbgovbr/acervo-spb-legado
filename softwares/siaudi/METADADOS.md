@@ -1,5 +1,24 @@
 # Siaudi - Sistema de Auditoria
 
+## Distribuição vigente
+
+5 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [instalacao-siaudi.odt](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-siaudi/instalacao-siaudi.odt) | 521349501 | 39342 | `46fbf316004eec5f64b3015180f7db7a1f812504c9f9267eadb4e40ed604ee7a` |
+| [Instalacao_Siaudi.odt](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-siaudi/Instalacao_Siaudi.odt) | 521349471 | 22277 | `b88dbb87862def453aee1b6ed02be88e249558958a150298c4d2f515386fd7c0` |
+| [siaudi-versao-2.0](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-siaudi/siaudi-versao-2.0) | 521349515 | 33631 | `2da5ff9c7fe86f63f7f5ace81cd2e747adafd45e823de9208c97b92ec0764504` |
+| [siaudi2.0-rev-acervo-20261029-r1.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-siaudi/siaudi2.0-rev-acervo-20261029-r1.zip) | 688989833 | 65216284 | `a3b26308f717fbef8a9ca60cea107c00d1b313f14ea3deaa63999f9cdfc2894e` |
+| [siaudi_manual.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-siaudi/siaudi_manual.pdf) | 521349749 | 6930586 | `afc641818788cc5f88385129c881ed0874ca668038c51516f586ee7488e9ffd2` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Siaudi - Sistema de Auditoria
+
 ## Identificação
 
 **Software:** Siaudi - Sistema de Auditoria
@@ -46,3 +65,5 @@ O inventário é histórico e inclui o arquivo retirado; o original permanece pr
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>

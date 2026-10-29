@@ -1,5 +1,20 @@
 # Amadeus LMS
 
+## Distribuição vigente
+
+1 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [amadeuslms-master-rev-acervo-20261029-r1.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-amadeus-lms/amadeuslms-master-rev-acervo-20261029-r1.zip) | 688994836 | 6829291 | `73d91f307328d9996644f2a5076882b2d52f60666f4548f0722e6bcdb3473e85` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Amadeus LMS
+
 ## Identificação
 
 **Software:** Amadeus LMS
@@ -40,3 +55,5 @@ O inventário é histórico e inclui o arquivo retirado; o original permanece pr
 - Data da retirada: 2026-10-23
 - Motivo: remoção de conteúdo de teste com campos de senha e revisão do tratamento de credenciais
 - Substituído por: `46A21851C456ACF10145FCB71F067F9ABE0D32297DD5561F63DF3934EA54A601`
+
+</details>

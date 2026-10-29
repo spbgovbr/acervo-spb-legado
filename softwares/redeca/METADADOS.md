@@ -1,5 +1,28 @@
 # Redeca
 
+## Distribuição vigente
+
+9 download(s) na Release correspondente. Esta seção e o inventário da raiz identificam a distribuição vigente; as anotações históricas abaixo registram situações anteriores.
+
+| Arquivo / download | ID do asset | Bytes | SHA-256 |
+|---|---:|---:|---|
+| [administrador_alta.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/administrador_alta.pdf) | 521346764 | 36020720 | `02a285c939c3ca4e1f9603355f25d26fa789b495c3b43705edf45d7ab375b16c` |
+| [coordenador-alta.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/coordenador-alta.pdf) | 521346890 | 42832 | `aa520878b41f58e44b67d5df50ff6b9c4db8842befd653acab9033c916244e54` |
+| [coordenador_alta.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/coordenador_alta.pdf) | 521346916 | 7611087 | `debaa391b64617f94e94c6b62b78dfae078abcc324eed8933bcfcd0b22711461` |
+| [manual-configura-o-ambiente-redeca.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/manual-configura-o-ambiente-redeca.pdf) | 521346943 | 42943 | `630b4aa00e1c47654a2f8db11f22bf40e84f06e090fc55a25eb90508a2c4ff19` |
+| [Manual_Configura__o_Ambiente_Redeca.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/Manual_Configura__o_Ambiente_Redeca.pdf) | 521346752 | 177310 | `24cf173cab5aca46bb34c7e3ba335cc66606bd156b73628bc0a2b3f15bfe66d2` |
+| [redeca-1.0.09-rev-acervo-20261023-r2.zip](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/redeca-1.0.09-rev-acervo-20261023-r2.zip) | 670158327 | 4544406 | `d2a5b8df58f1b35e2d1c675d17dbe596377adb61f33be5b8d2f07ae3676776c5` |
+| [tecnico-alta__0a6c9b8e893c.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/tecnico-alta__0a6c9b8e893c.pdf) | 521346996 | 42808 | `0a6c9b8e893c17612949daf779bec360c02c1ffb13117fd097d440295d3e8675` |
+| [tecnico-alta__3d841fc8d0a5.pdf](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/tecnico-alta__3d841fc8d0a5.pdf) | 521347004 | 47690722 | `3d841fc8d0a5eb5ef2548fb24192690cdc6d20005a2864ea7e86d2429fa23bbf` |
+| [versoes.html](https://github.com/spbgovbr/acervo-spb-legado/releases/download/acervo-redeca/versoes.html) | 521347099 | 36309 | `87b31e9a67b9945eb87a4cec3306a188010f941e18a8c750f362bb1e528e1351` |
+
+Os originais de referência histórica são preservados separadamente. Um derivado revisado não constitui versão mantida ou homologação de segurança.
+
+<details>
+<summary>Inventário histórico e anotações anteriores — situações à época</summary>
+
+# Redeca
+
 ## Identificação
 
 **Software:** Redeca
@@ -50,3 +73,5 @@ O inventário é histórico e inclui o arquivo retirado; o original permanece pr
 ## Aviso
 
 Este registro integra o acervo histórico do Software Público Brasileiro. A preservação e a disponibilização do conteúdo não representam validação atual de segurança, compatibilidade, manutenção, atualização tecnológica ou adequação para uso em ambiente de produção.
+
+</details>
