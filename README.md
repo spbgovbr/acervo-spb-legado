@@ -76,8 +76,8 @@ Informações relacionadas à natureza histórica dos softwares e à comunicaç�
 
 ## Distribuição e integridade — atualização de 29/10/2026
 
-O inventário histórico identifica 435 originais; a distribuição vigente contém 431 downloads em 66 Releases. Quatro conteúdos foram retirados em operação anterior. A substituição de 16 downloads por derivados revisados mantém a contagem em 431. Os nomes, tamanhos e SHA-256 vigentes estão em [INVENTARIO-DISTRIBUICAO.json](INVENTARIO-DISTRIBUICAO.json) e nos metadados de cada software. Os hashes dos derivados podem diferir dos originais históricos.
+O inventário histórico identifica 435 originais; a distribuição vigente contém 431 downloads em 66 Releases. Quatro conteúdos foram retirados em operação anterior. A substituição de 16 downloads por derivados revisados mantém a contagem em 431. Os nomes, tamanhos e SHA-256 vigentes estão nos metadados de cada software. Os hashes dos derivados podem diferir dos originais históricos.
 
-A conferência de integridade é descrita em [INTEGRIDADE.md](INTEGRIDADE.md). As revisões são dirigidas e não constituem certificação de ausência de vulnerabilidades ou dados pessoais em todo o acervo.
+As revisões são dirigidas e não constituem certificação de ausência de vulnerabilidades ou dados pessoais em todo o acervo.
 
 As licenças que acompanham os softwares e as referências do [portal do Software Público](https://softwarepublico.dth.sisp.gov.br/) são preservadas. Não se atribui uma licença geral nova aos softwares de terceiros.

@@ -22,6 +22,20 @@ def verificar_arquivo(a,path):
         for b in iter(lambda:f.read(4*1024*1024),b''):h.update(b);size+=len(b)
     return size==a['bytes'] and 'sha256:'+h.hexdigest()==a['digest']
 
+def ler_metadados(root):
+    entries=[]
+    for path in sorted((pathlib.Path(root)/'softwares').glob('*/METADADOS.md')):
+        current=path.read_text(encoding='utf-8-sig').split('<details>',1)[0]
+        for line in current.splitlines():
+            if not line.startswith('| ['):continue
+            match=re.fullmatch(r'\| \[([^\]]+)\]\((https://github\.com/spbgovbr/acervo-spb-legado/releases/download/([^/]+)/[^)]+)\) \| (\d+) \| (\d+) \| `([0-9a-f]{64})` \|',line)
+            if not match:raise ValueError('Linha de distribuicao invalida: '+str(path))
+            name,url,tag,aid,size,digest=match.groups()
+            if tag!='acervo-'+path.parent.name:raise ValueError('Release incoerente com software')
+            entries.append(dict(arquivo=name,url=url,release_tag=tag,asset_id=int(aid),bytes=int(size),digest='sha256:'+digest))
+    if not entries:raise ValueError('Nenhum download nos metadados')
+    return entries
+
 def remoto(repo):
     def api(path):
         headers={'Accept':'application/vnd.github+json','User-Agent':'acervo-integridade'}
@@ -52,8 +66,8 @@ def comparar(expected,actual):
     return sorted(errors)
 
 def main():
-    p=argparse.ArgumentParser();p.add_argument('--inventario',default=str(pathlib.Path(__file__).resolve().parents[1]/'INVENTARIO-DISTRIBUICAO.json'));p.add_argument('--remoto');p.add_argument('--diretorio');args=p.parse_args()
-    data=json.loads(pathlib.Path(args.inventario).read_text(encoding='utf-8'));entries=data['assets'];validar(entries);errors=[]
+    p=argparse.ArgumentParser();p.add_argument('--inventario',help='Inventario JSON externo opcional; por padrao utiliza os METADADOS.md');p.add_argument('--remoto');p.add_argument('--diretorio');args=p.parse_args()
+    entries=json.loads(pathlib.Path(args.inventario).read_text(encoding='utf-8'))['assets'] if args.inventario else ler_metadados(pathlib.Path(__file__).resolve().parents[1]);validar(entries);errors=[]
     if args.remoto:errors.extend(comparar(entries,remoto(args.remoto)))
     if args.diretorio:
         for a in entries:
